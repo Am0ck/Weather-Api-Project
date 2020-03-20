@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Endpoints\WeatherBitEndpoint.cs~RF268c1c82.TMP" />
+    <None Remove="Models\AccuWeatherLocationModel.cs~RF2abdd1f5.TMP" />
+    <None Remove="Models\AccuWeatherLocationModel.cs~RF2ace5d9d.TMP" />
+    <None Remove="Models\ClimaRealTimeModel.cs~RF2c627b2a.TMP" />
+    <None Remove="Models\Weather2020ForecastModel.cs~RF2b55d9d1.TMP" />
+    <None Remove="Models\Weather2020ForecastModel.cs~RF2c05ecb5.TMP" />
+    <None Remove="Models\Weather2020ForecastModel.cs~RF2c2a28f4.TMP" />
+    <None Remove="Models\WeatherBitForecastModel.cs~RF29ff2a18.TMP" />
+    <None Remove="Models\WeatherBitWeatherModel.cs~RF268123db.TMP" />
+    <None Remove="Models\WeatherBitWeatherModel.cs~RF26ede9cd.TMP" />
+    <None Remove="POCO\WeatherBitForecast.cs~RF2a0df95b.TMP" />
+  </ItemGroup>
+
+</Project>
